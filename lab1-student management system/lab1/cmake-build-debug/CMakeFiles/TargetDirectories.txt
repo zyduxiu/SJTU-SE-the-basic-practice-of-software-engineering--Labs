@@ -1,0 +1,4 @@
+C:/LAB/lab1-student management system/lab1/cmake-build-debug/CMakeFiles/lab1lib.dir
+C:/LAB/lab1-student management system/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+C:/LAB/lab1-student management system/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/LAB/lab1-student management system/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

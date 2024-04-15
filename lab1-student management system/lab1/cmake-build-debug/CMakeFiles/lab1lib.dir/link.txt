@@ -1,0 +1,2 @@
+"D:\clion\CLion 2022.3.2\bin\mingw\bin\ar.exe" qc liblab1lib.a CMakeFiles/lab1lib.dir/Class.cc.obj CMakeFiles/lab1lib.dir/Student.cc.obj
+"D:\clion\CLion 2022.3.2\bin\mingw\bin\ranlib.exe" liblab1lib.a
