@@ -1,0 +1,3 @@
+C:/LAB/lab8-debug2-handout/cmake-build-debug/CMakeFiles/Tree.dir
+C:/LAB/lab8-debug2-handout/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/LAB/lab8-debug2-handout/cmake-build-debug/CMakeFiles/rebuild_cache.dir
